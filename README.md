@@ -9,3 +9,5 @@ term
     and one more.
 
     one more
+
+And now I try to add this line to a new branch.
